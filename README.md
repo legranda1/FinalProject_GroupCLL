@@ -35,7 +35,7 @@ for biomass separation through settlement
 
 <div style="text-align:center">
 
-[<img src="images/flow_scheme.jpg" width="80%"/>](images/flow_scheme.jpg)
+[<img src="images/flow_scheme.jpg" width="90%"/>](images/flow_scheme.jpg)
 
 *<small>Fig 2. Basic flow scheme of a wastewater treatment plant.
 (source: Gujer 1999).</small>*
@@ -126,7 +126,7 @@ calculation.
 
 <div style="text-align:center">
 
-[<img src="images/input_data.jpg" width="30%"/>](images/input_data.jpg)
+[<img src="images/input_data.jpg" width="35%"/>](images/input_data.jpg)
 
 *<small>Fig 3. Input data needed for dimensioning. (source:
 Sindelfingen Wastewater Treatment Plant 2006-2008).</small>*
@@ -140,7 +140,7 @@ process as shown in figure 4.
 
 <div style="text-align:center">
 
-[<img src="images/rect_tank.JPG" width="70%"/>](images/rect_tank.JPG)
+[<img src="images/rect_tank.JPG" width="90%"/>](images/rect_tank.JPG)
 
 *<small>Fig 4. Rectangular sedimentation tank. 
 (source: Harald Schoenberger 2022).</small>*
@@ -153,7 +153,7 @@ settleable solids can be sedimented within ~45 minutes:
 
 <div style="text-align:center">
 
-[<img src="images/efficiency_ps.JPG" width="70%"/>](images/efficiency_ps.JPG)
+[<img src="images/efficiency_ps.JPG" width="80%"/>](images/efficiency_ps.JPG)
 
 *<small>Fig 5. Efficiency of primary sedimentation. (source: 
 ATV-Handbuch 1997a).</small>*
@@ -241,7 +241,7 @@ look the following way:
 
 <div style="text-align:center">
 
-[<img src="images/pri_sed_results.jpg" width="35%"/>](images/pri_sed_results.jpg)
+[<img src="images/pri_sed_results.jpg" width="45%"/>](images/pri_sed_results.jpg)
 
 *<small>Fig 6. Screenshot of primary sedimentation dimensioning output
 (source: Authors, 2024).</small>*
@@ -266,7 +266,7 @@ in the figure 7.
 
 <div style="text-align:center">
 
-[<img src="images/act_sludge_tank.jpg" width="80%"/>](images/act_sludge_tank.jpg)
+[<img src="images/act_sludge_tank.jpg" width="100%"/>](images/act_sludge_tank.jpg)
 
 *<small>Fig 7. Parts of Activated Sludge Tank
 (source: Authors, 2024).</small>*
@@ -737,7 +737,7 @@ as shown in figure 9.
 
 <div style="text-align:center">
 
-[<img src="images/horizontal_flow.jpg" width="85%"/>](images/horizontal_flow.jpg)
+[<img src="images/horizontal_flow.jpg" width="100%"/>](images/horizontal_flow.jpg)
 
 *<small>Fig 9. Main directions of flow and functional tank zones of 
 horizontal flow circular secondary sedimentation tanks. 
