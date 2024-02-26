@@ -79,8 +79,8 @@ wastewater treatment plant.
 
 *Fundamental components*
 
-The [wwtp_design](wwtp_design) package consists of 8 modules. First, in
-[*data.py*](wwtp_design/data.py) it has been created a class to import
+The [wwtp_design](wwtp_design) package consists of 8 modules. First,
+[*data.py*](wwtp_design/data.py) has been created as a class to import
 key data values for geometrical design of a wastewater treatment plant
 from the input Excel file [*input_data.xlsx*](input_data.xlsx). The
 list of inflows and chemical properties shown above will be used in
@@ -89,7 +89,7 @@ functions and global variables (i.e., tables of the corresponding
 standard) have been created in [*fun.py*](wwtp_design/fun.py) and
 [*config.py*](wwtp_design/config.py) (being this a modifiable module,
 allowing flexibility, since regulation values may vary from country to
-country) respectively.Thirdly, [*pri_sed.py*](wwtp_design/pri_sed.py),
+country) respectively. Thirdly, [*pri_sed.py*](wwtp_design/pri_sed.py),
 [*sec_sed.py*](wwtp_design/sec_sed.py), and
 [*act_sludge.py*](wwtp_design/act_sludge.py) are modules where classes
 have been created to perform the respective dimensioning of each tank.
