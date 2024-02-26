@@ -2,10 +2,10 @@
 
 <div style="text-align:center">
 
-[<img src="images/WWTP.jpg" width="80%"/>](images/WWTP.jpg)
-
-*<small>Fig 1. Aerial photo of Kuryanovo wastewater treatment plant in
-Moscow, Russia. (source: Alexander Savin 2018).</small>*
+[<img src="images/WWTP.jpg" width="90%"/>](images/WWTP.jpg)
+<br>
+<em><small>Fig 1. Aerial photo of Kuryanovo wastewater treatment plant
+in Moscow, Russia. (source: Alexander Savin 2018).</small></em>
 </div>
 
 
@@ -36,9 +36,9 @@ for biomass separation through settlement
 <div style="text-align:center">
 
 [<img src="images/flow_scheme.jpg" width="90%"/>](images/flow_scheme.jpg)
-
-*<small>Fig 2. Basic flow scheme of a wastewater treatment plant.
-(source: Gujer 1999).</small>*
+<br>
+<em><small>Fig 2. Basic flow scheme of a wastewater treatment plant.
+(source: Gujer 1999).</small></em>
 </div>
 
 Inflow quantities and chemical properties include:
@@ -127,9 +127,9 @@ calculation.
 <div style="text-align:center">
 
 [<img src="images/input_data.jpg" width="35%"/>](images/input_data.jpg)
-
-*<small>Fig 3. Input data needed for dimensioning. (source:
-Sindelfingen Wastewater Treatment Plant 2006-2008).</small>*
+<br>
+<em><small>Fig 3. Input data needed for dimensioning. (source:
+Sindelfingen Wastewater Treatment Plant 2006-2008).</small></em>
 </div>
 
 ***
@@ -141,9 +141,9 @@ process as shown in figure 4.
 <div style="text-align:center">
 
 [<img src="images/rect_tank.JPG" width="90%"/>](images/rect_tank.JPG)
-
-*<small>Fig 4. Rectangular sedimentation tank. 
-(source: Harald Schoenberger 2022).</small>*
+<br>
+<em><small>Fig 4. Rectangular sedimentation tank. 
+(source: Harald Schoenberger 2022).</small></em>
 </div>
 
 The focus of primary treatment of wastewater is to reduce the amount of
@@ -154,9 +154,9 @@ settleable solids can be sedimented within ~45 minutes:
 <div style="text-align:center">
 
 [<img src="images/efficiency_ps.JPG" width="80%"/>](images/efficiency_ps.JPG)
-
-*<small>Fig 5. Efficiency of primary sedimentation. (source: 
-ATV-Handbuch 1997a).</small>*
+<br>
+<em><small>Fig 5. Efficiency of primary sedimentation. (source: 
+ATV-Handbuch 1997a).</small></em>
 </div>
 
 
@@ -242,9 +242,9 @@ look the following way:
 <div style="text-align:center">
 
 [<img src="images/pri_sed_results.jpg" width="45%"/>](images/pri_sed_results.jpg)
-
-*<small>Fig 6. Screenshot of primary sedimentation dimensioning output
-(source: Authors, 2024).</small>*
+<br>
+<em><small>Fig 6. Screenshot of primary sedimentation dimensioning output
+(source: Authors, 2024).</small></em>
 </div>
 
 where:
@@ -267,9 +267,9 @@ in the figure 7.
 <div style="text-align:center">
 
 [<img src="images/act_sludge_tank.jpg" width="100%"/>](images/act_sludge_tank.jpg)
-
-*<small>Fig 7. Parts of Activated Sludge Tank
-(source: Authors, 2024).</small>*
+<br>
+<em><small>Fig 7. Parts of Activated Sludge Tank
+(source: Authors, 2024).</small></em>
 </div>
 
 Below is the step-by-step dimensioning according to ATV-DVWK-A 131E
@@ -653,9 +653,9 @@ file if everything runs smoothly
 <div style="text-align:center">
 
 [<img src="images/act_sludge_result.jpg" width="35%"/>](images/act_sludge_result.jpg)
-
-*<small>Fig 8.  Activated sludge dimensioning output 
-(source: Authors, 2024).</small>*
+<br>
+<em><small>Fig 8.  Activated sludge dimensioning output 
+(source: Authors, 2024).</small></em>
 </div>
 
 where:
@@ -738,10 +738,10 @@ as shown in figure 9.
 <div style="text-align:center">
 
 [<img src="images/horizontal_flow.jpg" width="100%"/>](images/horizontal_flow.jpg)
-
-*<small>Fig 9. Main directions of flow and functional tank zones of 
+<br>
+<em><small>Fig 9. Main directions of flow and functional tank zones of 
 horizontal flow circular secondary sedimentation tanks. 
-(source: ATV-DVWK-A 131E 2000).</small>*
+(source: ATV-DVWK-A 131E 2000).</small></em>
 </div>
 
 Below is the step-by-step dimensioning according to ATV-DVWK-A 131E
@@ -881,9 +881,9 @@ file if everything runs smoothly
 <div style="text-align:center">
 
 [<img src="images/sec_sed_results.jpg" width="35%"/>](images/sec_sed_results.jpg)
-
-*<small>Fig 10. Secondary sedimentation dimensioning output
-(source: Authors, 2024).</small>*
+<br>
+<em><small>Fig 10. Secondary sedimentation dimensioning output
+(source: Authors, 2024).</small></em>
 </div>
 
 where:
@@ -943,8 +943,18 @@ You can install them using:
 <div style="text-align:center">
 
 [<img src="images/UML.jpg" width="100%"/>](images/UML.jpg)
+<br>
+<em><small>Fig 11. UML. (source: Authors 2024).</small></em>
+</div>
 
-*<small>Fig 11. UML. (source: Authors 2024).</small>*
+## Timeline
+
+<div style="text-align:center">
+
+[<img src="images/timeline.jpg" width="85%"/>](images/timeline.jpg)
+<br>
+<em><small>Fig 12. Final timeline of the project. 
+(source: Authors 2024).</small></em>
 </div>
 
 ## Docs
