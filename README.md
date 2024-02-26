@@ -1,13 +1,12 @@
 # Wastewater Treatment Plant Design Package
 
-<div style="text-align:center">
+<p align="center">
 
 [<img src="images/WWTP.jpg" width="90%"/>](images/WWTP.jpg)
 <br>
 <em><small>Fig 1. Aerial photo of Kuryanovo wastewater treatment plant
 in Moscow, Russia. (source: Alexander Savin 2018).</small></em>
-</div>
-
+</p>
 
 ***
 Developed by [Camila Alvarado](https://www.linkedin.com/in/camila98/), 
@@ -33,13 +32,13 @@ for organic matter removal through aeration and filtration
 3. [Secondary sedimentation tank](https://www.robuschi.com/en-cn/industries/wastewater-treatment/secondary-sedimentation)
 for biomass separation through settlement
 
-<div style="text-align:center">
+<p align="center">
 
 [<img src="images/flow_scheme.jpg" width="90%"/>](images/flow_scheme.jpg)
 <br>
 <em><small>Fig 2. Basic flow scheme of a wastewater treatment plant.
 (source: Gujer 1999).</small></em>
-</div>
+</p>
 
 Inflow quantities and chemical properties include:
 
@@ -124,13 +123,13 @@ since these will be further on converted if needed. The ones seen on
 the input table are the most common units utilized for these types of
 calculation.
 
-<div style="text-align:center">
+<p align="center">
 
 [<img src="images/input_data.jpg" width="35%"/>](images/input_data.jpg)
 <br>
 <em><small>Fig 3. Input data needed for dimensioning. (source:
 Sindelfingen Wastewater Treatment Plant 2006-2008).</small></em>
-</div>
+</p>
 
 ***
 #### Primary Sedimentation
@@ -138,26 +137,26 @@ Sindelfingen Wastewater Treatment Plant 2006-2008).</small></em>
 Rectangular tanks will be used for the primary sedimentation designing
 process as shown in figure 4.
 
-<div style="text-align:center">
+<p align="center">
 
 [<img src="images/rect_tank.JPG" width="90%"/>](images/rect_tank.JPG)
 <br>
 <em><small>Fig 4. Rectangular sedimentation tank. 
 (source: Harald Schoenberger 2022).</small></em>
-</div>
+</p>
 
 The focus of primary treatment of wastewater is to reduce the amount of
 settleable solids and grit that may come into the treatment plant and
 damage further devices. At figure 5, it can be seen that 90% of 
 settleable solids can be sedimented within ~45 minutes:
 
-<div style="text-align:center">
+<p align="center">
 
 [<img src="images/efficiency_ps.JPG" width="80%"/>](images/efficiency_ps.JPG)
 <br>
 <em><small>Fig 5. Efficiency of primary sedimentation. (source: 
 ATV-Handbuch 1997a).</small></em>
-</div>
+</p>
 
 
 
@@ -239,13 +238,13 @@ where:
 The result file, [*pri_sed_results.xlsx*](pri_sed_results.xlsx), will
 look the following way:
 
-<div style="text-align:center">
+<p align="center">
 
 [<img src="images/pri_sed_results.jpg" width="45%"/>](images/pri_sed_results.jpg)
 <br>
 <em><small>Fig 6. Screenshot of primary sedimentation dimensioning output
 (source: Authors, 2024).</small></em>
-</div>
+</p>
 
 where:
 * *Tank_surf* is the total surface required [ *m<sup>2</sup>* ]
@@ -264,13 +263,13 @@ The activated sludge tank will have a pre-denitrification process and a
 nitrification process with their respective aeration systems as shown
 in the figure 7.
 
-<div style="text-align:center">
+<p align="center">
 
 [<img src="images/act_sludge_tank.jpg" width="100%"/>](images/act_sludge_tank.jpg)
 <br>
 <em><small>Fig 7. Parts of Activated Sludge Tank
 (source: Authors, 2024).</small></em>
-</div>
+</p>
 
 Below is the step-by-step dimensioning according to ATV-DVWK-A 131E
 2000 German Standard:
@@ -650,13 +649,13 @@ is covered by denitrification [ *( kg O<sub>2</sub> ) / d* ]
 Below is a screenshot of the output that would be obtained in a .xlsx
 file if everything runs smoothly
 
-<div style="text-align:center">
+<p align="center">
 
 [<img src="images/act_sludge_result.jpg" width="35%"/>](images/act_sludge_result.jpg)
 <br>
 <em><small>Fig 8.  Activated sludge dimensioning output 
 (source: Authors, 2024).</small></em>
-</div>
+</p>
 
 where:
 
@@ -735,14 +734,14 @@ and
 [scraper facilities](https://mena-water.com/products/circular-tank-scraper/#:~:text=Rotating%20Circular%20scrapers%20are%20designed,are%20collected%20by%20the%20skimmer.)
 as shown in figure 9.
 
-<div style="text-align:center">
+<p align="center">
 
 [<img src="images/horizontal_flow.jpg" width="100%"/>](images/horizontal_flow.jpg)
 <br>
 <em><small>Fig 9. Main directions of flow and functional tank zones of 
 horizontal flow circular secondary sedimentation tanks. 
 (source: ATV-DVWK-A 131E 2000).</small></em>
-</div>
+</p>
 
 Below is the step-by-step dimensioning according to ATV-DVWK-A 131E
 2000 German Standard:
@@ -878,13 +877,13 @@ where:
 Below is a screenshot of the output that would be obtained in a .xlsx
 file if everything runs smoothly
 
-<div style="text-align:center">
+<p align="center">
 
 [<img src="images/sec_sed_results.jpg" width="35%"/>](images/sec_sed_results.jpg)
 <br>
 <em><small>Fig 10. Secondary sedimentation dimensioning output
 (source: Authors, 2024).</small></em>
-</div>
+</p>
 
 where:
 
@@ -940,22 +939,22 @@ You can install them using:
 
 ## Code Diagram
 
-<div style="text-align:center">
+<p align="center">
 
 [<img src="images/UML.jpg" width="100%"/>](images/UML.jpg)
 <br>
 <em><small>Fig 11. UML. (source: Authors 2024).</small></em>
-</div>
+</p>
 
 ## Timeline
 
-<div style="text-align:center">
+<p align="center">
 
 [<img src="images/timeline.jpg" width="85%"/>](images/timeline.jpg)
 <br>
 <em><small>Fig 12. Final timeline of the project. 
 (source: Authors 2024).</small></em>
-</div>
+</p>
 
 ## Docs
  
