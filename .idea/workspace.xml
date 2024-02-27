@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b28c1f4-d398-4e2a-a227-e99d461ca1e0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/source/contents/code_description.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/contents/code_description.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/input_data.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/input_data.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input_data.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/input_data.xlsx" afterDir="false" />
-    </list>
+    <list default="true" id="8b28c1f4-d398-4e2a-a227-e99d461ca1e0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,15 +24,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/legra/anaconda3/envs/flussenv&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/legra/Python-Exercises/FinalProject_GroupCLL/docs/source/images"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\legra\Python-Exercises\FinalProject_GroupCLL\docs\source\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\legra\Python-Exercises\FinalProject_GroupCLL\docs" />
       <recent name="C:\Users\legra\Python-Exercises\FinalProject_GroupCLL\docs\source\Get Started" />
