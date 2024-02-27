@@ -952,8 +952,8 @@ You can install them using:
 
 [<img src="images/timeline.jpg" width="85%"/>](images/timeline.jpg)
 <br>
-<em><small>Fig 12. Final timeline of the project. 
-(source: Authors 2024).</small></em>
+<em><small>Fig 12. Final timeline of the project. (source:
+Authors 2024).</small></em>
 </div>
 
 ## Docs
