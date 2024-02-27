@@ -12,7 +12,7 @@ in Moscow, Russia. (source: Alexander Savin 2018).</small></em>
 Developed by [Camila Alvarado](https://www.linkedin.com/in/camila98/), 
 [Luis Granda](https://www.linkedin.com/in/luis-emilio-granda/), and
 [Lucas Tardio](https://www.linkedin.com/in/lucas-tardio-ascarrunz-48a70a158/) 
-(CLL Group)
+(CLL Group).
 ***
 
 ## Code Description
@@ -26,11 +26,11 @@ chemical properties.
 The main parts and its functions are:
 
 1. [Primary sedimentation tank](https://www.robuschi.com/en-gb/industries/wastewater-treatment/primary-sedimentation#:~:text=Primary%20sedimentation%20removes%20suspended%20solids,in%20the%20liquid%20waste%20stream)
-for settleable solids separation
+for settleable solids separation.
 2. [Activated sludge tank](https://en.wikipedia.org/wiki/Activated_sludge#:~:text=The%20activated%20sludge%20process%20for,from%20the%20clear%20treated%20water)
-for organic matter removal through aeration and filtration
+for organic matter removal through aeration and filtration.
 3. [Secondary sedimentation tank](https://www.robuschi.com/en-cn/industries/wastewater-treatment/secondary-sedimentation)
-for biomass separation through settlement
+for biomass separation through settlement.
 
 <div style="text-align:center">
 
@@ -65,9 +65,9 @@ data and some key biological parameters, skipping the tedious, table
 filled, iterative process of which sedimentation tanks and biological
 treatment design depend on:
 
-* Discharges have a wide range depending on the population equivalents
+* Discharges have a wide range depending on the population equivalents.
 * Biochemical loads have expected unitary values, but will vary in
-their total quantities (regarding previous point)
+their total quantities (regarding previous point).
 * Wide range of tabulated design standards (this varies from country
 to country), which add tediousness on the path to a size-optimized
 wastewater treatment plant.
@@ -362,7 +362,7 @@ dimensioning for nitrification is based  [ *d* ]
 denitrification tank to activated sludge tank [ *-* ]
 
 Alternatively, the following table can be used to find the required
-sludge age
+sludge age.
 
 |                                                 |                              | T and B<sub>d,BOD,I</sub>  | T and B<sub>d,BOD,I</sub>  |  T and B<sub>d,BOD,I</sub>  |  T and B<sub>d,BOD,I</sub>  |  
 |:-----------------------------------------------:|:----------------------------:|:--------------------------:|:--------------------------:|:---------------------------:|:---------------------------:|
@@ -437,7 +437,7 @@ from the influent to the activated sludge tank [ *mg / L* ]
 Alternatively, the following table can be used to find the specific
 sludge production SP<sub>C,BOD</sub> [ *kg SS / kg BOD<sub>5</sub>* ]
 at 10° to 12° C, and, then, multiply by the influent BOD<sub>5</sub>
-load to find the sludge production from carbon removal
+load to find the sludge production from carbon removal.
 
 |                                          | Sludge age [ d ] | Sludge age [ d ]  | Sludge age [ d ]  | Sludge age [ d ]  | Sludge age [ d ] | Sludge age [ d ] |  
 |:----------------------------------------:|:----------------:|:-----------------:|:-----------------:|:-----------------:|:----------------:|:----------------:|
@@ -591,7 +591,7 @@ below:
 
 *OU<sub>d,C</sub> = { B<sub>d,BOD</sub> }  · { [ 0.56 ] + 
 [ ( 0.15 · t<sub>SS,dim</sub> · F<sub>T</sub> ) / 
-( 1 + 0.17  · t<sub>SS</sub> · F<sub>T</sub> ) ] }*
+( 1 + 0.17  · t<sub>SS,dim</sub> · F<sub>T</sub> ) ] }*
 
 where:
 * *OU<sub>d,C</sub>* is the daily oxygen uptake for carbon removal
@@ -647,13 +647,13 @@ is covered by denitrification [ *( kg O<sub>2</sub> ) / d* ]
 [ *( kg O<sub>2</sub> ) / d* ]
 
 Below is a screenshot of the output that would be obtained in a .xlsx
-file if everything runs smoothly
+file if everything runs smoothly:
 
 <div style="text-align:center">
 
 [<img src="images/act_sludge_result.jpg" width="35%"/>](images/act_sludge_result.jpg)
 <br>
-<em><small>Fig 8.  Activated sludge dimensioning output 
+<em><small>Fig 8. Activated sludge dimensioning output 
 (source: Authors, 2024).</small></em>
 </div>
 
@@ -751,7 +751,7 @@ Below is the step-by-step dimensioning according to ATV-DVWK-A 131E
 *(Sludge Volume Index)* is
 extracted according to the design criteria, in our case a nitrification
 and denitrification target treatment will be performed. Plus, it is
-recommended to take an average value
+recommended to take an average value.
 
 |         Treatment target          | Favourable (ml/g) | Unfavourable (ml/g) | 
 |:---------------------------------:|:-----------------:|:-------------------:|
@@ -796,7 +796,7 @@ the bottom sludge [ *g / L* ]
 where:
 * *SS<sub>AT</sub>* is the suspended solids concentration in
 the activated sludge tank  [ *g / L* ]
-* *SS<sub>BS</sub>* is the suspended solids concentration in 
+* *SS<sub>RS</sub>* is the suspended solids concentration in 
 the bottom sludge [ *g / L* ]
 * *RS* is the return sludge ratio always 0.75 [ *-* ]
 
@@ -808,13 +808,13 @@ where:
 * *q<sub>A</sub>* is the surface overflow rate  [ *m / h* ]
 * *q<sub>SV</sub>* is the sludge volume loading rate 
 [ *L / ( m<sup>2</sup> · h )* ]
-  - *q<sub>SV</sub>* ≤ 500  for  [ *L / ( m<sup>2</sup> · h )* ]
+  * *q<sub>SV</sub>* ≤ 500  for  [ *L / ( m<sup>2</sup> · h )* ]
   for *X<sub>SS,EST</sub>*   ≤ 20 [ *mg / L* ]
 * *DSV* is the diluted sludge volume [ *mL / L* ]
-  - *DSV = SS<sub>AT</sub>  ·  SVI*
-    - *SS<sub>AT* is the suspended solids concentration in
+  * *DSV = SS<sub>AT</sub>  ·  SVI*
+    * *SS<sub>AT* is the suspended solids concentration in
 the activated sludge tank  [ *g / L* ]
-    - *SVI* is the sludge volume index [ *mL / g* ]
+    * *SVI* is the sludge volume index [ *mL / g* ]
 
 *A<sub>ST</sub> = Q<sub>comb</sub> / q<sub>A</sub>*
 
@@ -875,7 +875,7 @@ where:
 * *h<sub>4</sub>* is the thickening and sludge removal zone [ *m* ]
 
 Below is a screenshot of the output that would be obtained in a .xlsx
-file if everything runs smoothly
+file if everything runs smoothly:
 
 <div style="text-align:center">
 
@@ -918,9 +918,9 @@ tank (sum of previous 4 heights) [ *m* ]
 
 ## Requirements
 
-- Python >= 3.7
-- Required Python packages: `pandas`, `numpy`, `logging`, `time`,
-`math`
+* Python >= 3.7.
+* Required Python packages: `pandas`, `numpy`, `logging`, `time`,
+`math`.
 
 ## Usage
 
@@ -968,47 +968,47 @@ sedimentation and activated sludge tanks in wastewater treatment plants.
 #### Functions Overview
 
 1. `x_ss_bs()`
-   - *Description:* Calculates the suspended solids concentration in
+   * *Description:* Calculates the suspended solids concentration in
    the bottom sludge.
-   - *Parameters:* None.
-   - *Returns:* Floating-point result in g/L or kg/m³.
+   * *Parameters:* None.
+   * *Returns:* Floating-point result in g/L or kg/m<sup>3</sup>.
 
 
 2. `x_ss_rs(using="scraper facilities")`
-   - *Description:* Calculates the suspended solids concentration in
+   * *Description:* Calculates the suspended solids concentration in
    the return sludge using scraper facilities or suction facilities.
-   - *Parameters:*
-     - `using`: String indicating the type of facility to be used 
+   * *Parameters:*
+     * `using`: String indicating the type of facility to be used 
      (default is "scraper facilities").
-   - *Returns:* Floating-point result in g/L or kg/m³.
+   * *Returns:* Floating-point result in g/L or kg/m<sup>3</sup>.
 
 
 3. `calc_weights(start, end, variable)`
-   - *Description:* Calculates initial and final weights of the
+   * *Description:* Calculates initial and final weights of the
    dimensioning sludge age.
-   - *Parameters:*
-     - `start`: Integer representing the starting value in one of the
+   * *Parameters:*
+     * `start`: Integer representing the starting value in one of the
      sludge age ranges.
-     - `end`: Integer representing the ending value in one of the 
+     * `end`: Integer representing the ending value in one of the 
      sludge age ranges.
-     - `variable`: Floating-point value of the variable to be found its
+     * `variable`: Floating-point value of the variable to be found its
      weights.
-   - *Returns:* Tuple with dimensionless floating-point results.
+   * *Returns:* Tuple with dimensionless floating-point results.
 
 
 4. `start_logging()`
-   - *Description:* Sets up logging formats and log file names for
+   * *Description:* Sets up logging formats and log file names for
    different scenarios.
-   - *Parameters:* None.
-   - *Returns:* None, but creates three logger objects for logging
+   * *Parameters:* None.
+   * *Returns:* None, but creates three logger objects for logging
    information, warnings, and errors.
 
 
 5. `log_actions(fun)`
-   - *Description:* Decorator function to log script execution messages
-   - *Parameters:*
-     - `fun`: A function.
-   - *Returns:* Result of applying the wrapper function to the
+   * *Description:* Decorator function to log script execution messages
+   * *Parameters:*
+     * `fun`: A function.
+   * *Returns:* Result of applying the wrapper function to the
    corresponding `fun`.
 
 ### Project Classes
@@ -1028,20 +1028,20 @@ DataFrame.
 
 ##### Class Methods
 
-###### `__init__(self, xlsx_file_name="input_data.xlsx")`
+`__init__(self, xlsx_file_name="input_data.xlsx")`
 For initializing an `InputReader` object with the given attributes
 and methods.
-- *Parameters*:
-  - `xlsx_file_name` (optional): String of the corresponding .xlsx
+* *Parameters*:
+  * `xlsx_file_name` (optional): String of the corresponding .xlsx
   file name.
-- *Returns*: None.
+* *Returns*: None.
 
-###### `get_input_data(self, xlsx_file_name)`
+`get_input_data(self, xlsx_file_name)`
 Reads input data from an Excel file and stores it in the `wwtp_params`
 DataFrame.
-- *Parameters*:
-  - `xlsx_file_name`: String of the corresponding .xlsx file name.
-- *Returns*: None if there is no error, -1 (integer) if there is
+* *Parameters*:
+  * `xlsx_file_name`: String of the corresponding .xlsx file name.
+* *Returns*: None if there is no error, -1 (integer) if there is
 an error.
 
 #### PriSed Class
@@ -1062,19 +1062,19 @@ each rectangular primary sedimentation tank.
 
 ##### Class Methods
 
-###### `__init__(self)`
+`__init__(self)`
 For initializing a `PriSed` object with the given attributes
 and methods.
 
-###### `pri_surf(self)`
+`pri_surf(self)`
 Rectangular primary sedimentation tank surface calculation.
-- *Returns*: Floating-point result in m².
+* *Returns*: Floating-point result in m<sup>2</sup>.
 
-###### `cross_volume(self)`
+`cross_volume(self)`
 Calculation of cross-section and volume for each rectangular primary
 sedimentation tank.
-- *Returns*: Tuple with floating-point values of area in m², 
-num_tanks, length in m, width in m, and volume in m³.
+* *Returns*: Tuple with floating-point values of area in m<sup>2</sup>, 
+num_tanks, length in m, width in m, and volume in m<sup>3</sup>.
 
 #### ActSludge Class
 
@@ -1114,21 +1114,21 @@ in biomass.
 `n_bal(self)`
 
 Calculates the nitrogen balance and returns concentrations of
-NH4-N and NO3-N.
+NH<sub>4</sub>-N and NO<sub>3</sub>-N.
 
 `den_ratio(self)`
 
-Calculates the ratio of nitrate nitrogen concentration to BOD5 input
+Calculates the ratio of nitrate nitrogen concentration to BOD<sub>5</sub> input
 concentration.
 
 `inter_vd_vat(self)`
 
-Interpolates the corresponding value of "Vd/Vat" for a given target
+Interpolates the corresponding value of "V<sub>d</sub>/V<sub>at</sub>" for a given target
 value (denitrification potential).
 
 `s_f(self)`
 
-Calculates the safety factor based on BOD5 and population criteria.
+Calculates the safety factor based on BOD<sub>5</sub> and population criteria.
 
 `t_ss_aerob_dim(self)`
 
@@ -1300,46 +1300,46 @@ methods.
 
 Calculation of suspended solids concentration in the activated sludge
 tank.
-- *Returns*: Floating-point result in g/L or kg/m³.
+* *Returns*: Floating-point result in g/L or kg/m<sup>3</sup>.
 
 `q_a(self)`
 
 Calculation of the surface overflow rate of the secondary sedimentation
 tank.
-- *Returns*: Floating-point result in m/h.
+* *Returns*: Floating-point result in m/h.
 
 `a_st(self)`
 
 Calculation of tank surface area and number of circular tanks.
-- *Returns*: Tuple containing a floating-point result in m² and a
+* *Returns*: Tuple containing a floating-point result in m<sup>2</sup> and a
 string indicating the number of circular tanks.
 
 `diam_st(self)`
 
 Calculation of the diameter of each of the secondary sedimentation
 tank(s).
-- *Returns*: Floating-point result in m.
+* *Returns*: Floating-point result in m.
 
 `h2(self)`
 
 Calculation of the separation and return flow zone.
-- *Returns*: Floating-point result in m.
+* *Returns*: Floating-point result in m.
 
 `h3(self)`
 
 Calculation of the density flow and storage zone.
-- *Returns*: Floating-point result in m.
+* *Returns*: Floating-point result in m.
 
 `h4(self)`
 
 Calculation of the thickening and sludge removal zone.
-- *Returns*: Floating-point result in m.
+* *Returns*: Floating-point result in m.
 
 `h_tot(self)`
 
 Calculation of the total depth of the secondary circular sedimentation
 tank.
-- *Returns*: Floating-point result in m.
+* *Returns*: Floating-point result in m.
 
 ### Project Main Module (main.py)
 
@@ -1349,40 +1349,40 @@ Below is a breakdown of the key components and functions:
 #### Functions:
 
 1. `pri_sed_df()`
-   - *Description:* Calculates and organizes results of primary
+   * *Description:* Calculates and organizes results of primary
    sedimentation tank dimensioning into a DataFrame.
-   - *Parameters:* None
-   - *Returns:* DataFrame containing dimensioning results with
+   * *Parameters:* None.
+   * *Returns:* DataFrame containing dimensioning results with
    corresponding units.
 
 2. `sec_sed_df()`
-   - *Description:* Calculates and organizes results of secondary
+   * *Description:* Calculates and organizes results of secondary
    sedimentation tank dimensioning into a DataFrame.
-   - *Parameters:* None
-   - *Returns:* DataFrame containing dimensioning results with
+   * *Parameters:* None.
+   * *Returns:* DataFrame containing dimensioning results with
    corresponding units.
 
 3. `act_sludge_df()`
-   - *Description:* Calculates and organizes results of activated
+   * *Description:* Calculates and organizes results of activated
    sludge tank dimensioning into a DataFrame.
-   - *Parameters:* None
-   - *Returns:* DataFrame containing dimensioning results with
+   * *Parameters:* None.
+   * *Returns:* DataFrame containing dimensioning results with
    corresponding units.
 
 4. `main()`
-   - *Description:* Main functionality of the script. It generates log
+   * *Description:* Main functionality of the script. It generates log
    files and outputs dimensioning results.
-   - *Parameters:* None
-   - *Returns:* None or -1 in case of an error.
+   * *Parameters:* None.
+   * *Returns:* None or -1 in case of an error.
 
 #### Execution:
-- The script checks for input data. If the input data is not available
+* The script checks for input data. If the input data is not available
 or incorrect, it logs the event as an error.
-- If input data is available, it proceeds to perform dimensioning
+* If input data is available, it proceeds to perform dimensioning
 calculations for primary sedimentation tank, secondary sedimentation
 tank, and activated sludge tank.
-- Dimensioning results are logged and saved into separate Excel files.
-- If no warnings or errors occur during the process, it logs that
+* Dimensioning results are logged and saved into separate Excel files.
+* If no warnings or errors occur during the process, it logs that
 accordingly.
-- The performance of the script is evaluated by measuring the time
+* The performance of the script is evaluated by measuring the time
 elapsed during execution.
