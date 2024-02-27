@@ -171,8 +171,8 @@ For different types of treatments there is an optimal surface loading
 
 The package has been written to design WWTPs with activated sludge
 process (with addition of excess sludge) and as can be seen in the
-retention time, this is exactly 45 minutes, the required to sediment
-90% of settleable solids.
+retention time, this is exactly 45 minutes, the required to
+sediment 90% of settleable solids.
 
 Once surface loading (*q<sub>a</sub>*) is defined (according to the
 treatment method) total surface area is calculated with:
