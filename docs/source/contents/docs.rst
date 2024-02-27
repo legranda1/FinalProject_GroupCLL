@@ -179,7 +179,7 @@ concentration.
 
 ``inter_vd_vat(self)``
 
-Interpolates the corresponding value of "V\ :sub:`d` / V\ :sub:`at`"
+Interpolates the corresponding value of V\ :sub:`d` / V\ :sub:`at`
 for a given target value (denitrification potential).
 
 ``s_f(self)``

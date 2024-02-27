@@ -25,9 +25,9 @@ Welcome to Wastewater Treatment Plant Design Package documentation!
    :hidden:
    :caption: Contents
 
-   get_started/code_description
-   get_started/requirements
-   get_started/usage
-   get_started/code_diagram
-   get_started/timeline
-   get_started/docs
+   contents/code_description
+   contents/requirements
+   contents/usage
+   contents/code_diagram
+   contents/timeline
+   contents/docs

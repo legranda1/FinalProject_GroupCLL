@@ -967,7 +967,7 @@ where:
 * q\ :sub:`SV` is the sludge volume loading rate [ L / ( m\ :sub:`2` · h ) ]
 
 h\ :sub:`4` = [ SS\ :sub:`AT`  · q\ :sub:`A` ·
-( 1 + RS ) · t\ :sub:`Th`  ] / [ SS\ :sub:`BS` ]*
+( 1 + RS ) · t\ :sub:`Th`  ] / [ SS\ :sub:`BS` ]
 
 where:
 

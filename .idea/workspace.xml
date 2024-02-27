@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b28c1f4-d398-4e2a-a227-e99d461ca1e0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/docs/source/get_started/code_description.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/get_started/code_description.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/get_started/code_description.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/contents/code_description.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/get_started/code_diagram.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/contents/code_diagram.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/get_started/docs.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/contents/docs.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/get_started/requirements.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/contents/requirements.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/get_started/timeline.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/contents/timeline.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/get_started/usage.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/contents/usage.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/index.rst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
