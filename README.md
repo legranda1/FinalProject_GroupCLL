@@ -128,7 +128,7 @@ calculation.
 [<img src="images/input_data.jpg" width="35%"/>](images/input_data.jpg)
 <br>
 <em><small>Fig 3. Input data needed for dimensioning. (source:
-Sindelfingen Wastewater Treatment Plant 2006-2008).</small></em>
+Authors, 2024).</small></em>
 </div>
 
 ***
@@ -277,7 +277,7 @@ Below is the step-by-step dimensioning according to ATV-DVWK-A 131E
 1. Convert data loads to concentrations using the following formula:
 
 *C<sub>XXX</sub> or S<sub>XXX</sub> or X<sub>XXX</sub> 
-= ( B<sub>XXX</sub> / Q<sub>d,aM</sub> ) * 1000* 
+= ( B<sub>XXX</sub> / Q<sub>d,aM</sub> ) · 1000* 
 
 where:
 * *C<sub>XXX</sub>* is the concentration of the parameter XXX in the

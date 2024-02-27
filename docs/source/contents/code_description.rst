@@ -124,7 +124,7 @@ the most common units utilized for these types of calculation.
 
 .. raw:: html
 
-    <p style="text-align:center;">Fig 3. Input data needed for dimensioning. (source: Sindelfingen Wastewater Treatment Plant 2006-2008).</p>
+    <p style="text-align:center;">Fig 3. Input data needed for dimensioning. (source: Authors, 2024).</p>
 
 
 Primary Sedimentation
@@ -287,7 +287,7 @@ Below is the step-by-step dimensioning according to ATV-DVWK-A 131E
 1. Convert data loads to concentrations using the following formula:
 
 C\ :sub:`XXX` or S\ :sub:`XXX` or X\ :sub:`XXX`
-= ( B\ :sub:`XXX` / Q\ :sub:`d,aM` ) * 1000
+= ( B\ :sub:`XXX` / Q\ :sub:`d,aM` ) · 1000
 
 where:
 
@@ -436,7 +436,7 @@ First, the Inhabitant-SS load is extracted from the table below,
 a retention time after primary sedimentation of 0.5 to 1 h is
 sufficient. Remember to transform it to concentration.
 
-.. list-table:: Inhabitant-specific loads [ *g / (I * d)* ]
+.. list-table:: Inhabitant-specific loads [ *g / (I · d)* ]
     :widths: 20 20 20 20
     :header-rows: 1
 
@@ -554,7 +554,7 @@ load to find the sludge production from carbon removal.
 where:
 
 * X\ :sub:`SS,IAT` is the concentration of suspended solids from the influent to the activated sludge tank [ mg / L ]
-* C\ :sub:`BOD,IAT` s the concentration of BOD<sub>5</sub> from the influent to the activated sludge tank  [ mg / L ]
+* C\ :sub:`BOD,IAT` s the concentration of BOD \:sub:`5` from the influent to the activated sludge tank  [ mg / L ]
 
 Next, the phosphorus balance is calculated by first extracting the
 C\ :sub:`P,EST` according to the size class in the following table:
