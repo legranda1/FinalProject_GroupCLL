@@ -646,8 +646,8 @@ is covered by denitrification [ *( kg O<sub>2</sub> ) / d* ]
 * *OU<sub>d,N</sub>* is the daily oxygen uptake for nitrification 
 [ *( kg O<sub>2</sub> ) / d* ]
 
-Below is a screenshot of the output that would be obtained in a .xlsx
-file if everything runs smoothly:
+Below is a screenshot of the output that would be obtained in a
+.xlsx file if everything runs smoothly:
 
 <div style="text-align:center">
 
