@@ -952,8 +952,8 @@ h\ :sub:`2` =
 
 where:
 
-* h<sub>2</sub> is the separation/return flow zone [ m ]
-* q<sub>A</sub> is the surface overflow rate [ m / h ]
+* h\ :sub:`2` is the separation/return flow zone [ m ]
+* q\ :sub:`A` is the surface overflow rate [ m / h ]
 * RS is the return sludge ratio always 0.75 [ - ]
 * DSV is the diluted sludge volume [ mL / L ]
 
