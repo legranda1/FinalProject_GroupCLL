@@ -290,6 +290,7 @@ C\ :sub:`XXX` or S\ :sub:`XXX` or X\ :sub:`XXX`
 = ( B\ :sub:`XXX` / Q\ :sub:`d,aM` ) * 1000
 
 where:
+
 * C\ :sub:`XXX` is the concentration of the parameter XXX in the homogenised sample [ mg / L ]
 * S\ :sub:`XXX` is the concentration of the parameter XXX in the filtered sample (0.45 µm membrane filter) [ mg / L ]
 * X\ :sub:`XXX` is the concentration of the filter residue (solids), X\ :sub:`XXX` = C\ :sub:`XXX` - S\ :sub:`XXX` [ mg / L ]
@@ -551,6 +552,7 @@ load to find the sludge production from carbon removal.
       - 1.01
 
 where:
+
 * X\ :sub:`SS,IAT` is the concentration of suspended solids from the influent to the activated sludge tank [ mg / L ]
 * C\ :sub:`BOD,IAT` s the concentration of BOD<sub>5</sub> from the influent to the activated sludge tank  [ mg / L ]
 
@@ -919,8 +921,10 @@ where:
 
 * q\ :sub:`A` is the surface overflow rate  [ m / h ]
 * q\ :sub:`SV` is the sludge volume loading rate [ L / ( m\ :sup:`2` · h ) ]
+
   * q\ :sub:`SV` ≤ 500  for  [ L / ( m\ :sup:`2` · h ) ] for X\ :sub:`SS,EST` ≤ 20 [ mg / L ]
 * DSV is the diluted sludge volume [ mL / L ]
+
   * DSV = SS\ :sub:`AT`  ·  SVI
 
     * SS\ :sub:`AT` is the suspended solids concentration in the activated sludge tank [ g / L ]
