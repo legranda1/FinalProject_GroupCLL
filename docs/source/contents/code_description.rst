@@ -13,7 +13,7 @@ The main parts and its functions are:
 #. `Activated sludge tank <https://en.wikipedia.org/wiki/Activated_sludge#:~:text=The%20activated%20sludge%20process%20for,from%20the%20clear%20treated%20water>`_ for organic matter removal through aeration and filtration.
 #. `Secondary sedimentation tank <https://www.robuschi.com/en-cn/industries/wastewater-treatment/secondary-sedimentation>`_ for biomass separation through settlement.
 
-.. image:: /images/flow_scheme.jpg
+.. image:: ../../../images/flow_scheme.jpg
     :width: 90%
     :align: center
 
@@ -119,7 +119,7 @@ required for design. Units must be respected since these will be
 further on converted if needed. The ones seen on the input table are
 the most common units utilized for these types of calculation.
 
-.. image:: /images/input_data.jpg
+.. image:: ../../../images/input_data.jpg
     :width: 40%
     :align: center
 
@@ -134,7 +134,7 @@ Primary Sedimentation
 Rectangular tanks will be used for the primary sedimentation designing
 process as shown in figure 4.
 
-.. image:: /images/rect_tank.JPG
+.. image:: ../../../images/rect_tank.JPG
     :width: 90%
     :align: center
 
@@ -147,7 +147,7 @@ settleable solids and grit that may come into the treatment plant and
 damage further devices. At figure 5, it can be seen that 90% of
 settleable solids can be sedimented within ~45 minutes:
 
-.. image:: /images/efficiency_ps.JPG
+.. image:: ../../../images/efficiency_ps.JPG
     :width: 90%
     :align: center
 
@@ -250,7 +250,7 @@ where:
 The result file, ``pri_sed_results.xlsx``, will
 look the following way:
 
-.. image:: /images/pri_sed_results.jpg
+.. image:: ../../../images/pri_sed_results.jpg
     :width: 45%
     :align: center
 
@@ -275,7 +275,7 @@ The activated sludge tank will have a pre-denitrification process and a
 nitrification process with their respective aeration systems as shown
 in the figure 7.
 
-.. image:: /images/act_sludge_tank.jpg
+.. image:: ../../../images/act_sludge_tank.jpg
     :width: 100%
     :align: center
 
@@ -784,7 +784,7 @@ where:
 Below is a screenshot of the output that would be obtained in a .xlsx
 file if everything runs smoothly:
 
-.. image:: /images/act_sludge_result.jpg
+.. image:: ../../../images/act_sludge_result.jpg
     :width: 40%
     :align: center
 
@@ -841,7 +841,7 @@ and
 `scraper facilities <https://mena-water.com/products/circular-tank-scraper/#:~:text=Rotating%20Circular%20scrapers%20are%20designed,are%20collected%20by%20the%20skimmer.>`_
 as shown in figure 9.
 
-.. image:: /images/horizontal_flow.jpg
+.. image:: ../../../images/horizontal_flow.jpg
     :width: 100%
     :align: center
 
@@ -1000,7 +1000,7 @@ where:
 Below is a screenshot of the output that would be obtained in a .xlsx
 file if everything runs smoothly:
 
-.. image:: /images/sec_sed_results.jpg
+.. image:: ../../../images/sec_sed_results.jpg
     :width: 40%
     :align: center
 

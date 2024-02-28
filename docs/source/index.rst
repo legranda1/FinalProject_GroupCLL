@@ -5,7 +5,7 @@
 
 Welcome to Wastewater Treatment Plant Design Package documentation
 ==================================================================
-.. image:: /images/WWTP.jpg
+.. image:: ../../images/WWTP.jpg
     :width: 100%
     :align: center
 
