@@ -281,8 +281,8 @@ in the figure 7.
 
     <p style="text-align:center;">Fig 7. Parts of Activated Sludge Tank (source: Authors, 2024).</p>
 
-Below is the step-by-step dimensioning according to ATV-DVWK-A 131E
-2000 German Standard:
+Below is the step-by-step dimensioning according to
+ATV-DVWK-A 131E 2000 German Standard:
 
 1. Convert data loads to concentrations using the following formula:
 
