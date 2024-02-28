@@ -259,8 +259,8 @@ where:
 ---
 #### Activated Sludge Tank
 
-The activated sludge tank will have a pre-denitrification process and a
-nitrification process with their respective aeration systems as shown
+The activated sludge tank will have a pre-denitrification process and
+a nitrification process with their respective aeration systems as shown
 in the figure 7.
 
 <div style="text-align:center">
