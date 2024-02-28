@@ -22,8 +22,9 @@ The main parts and its functions are:
     <p style="text-align:center;">Fig 2. Basic flow scheme of a wastewater treatment plant. (source: Gujer 1999).</p>
 
 .. list-table:: Inflow quantities and chemical properties
-    :widths: 20 20 20
+    :widths: 10 30 10
     :header-rows: 1
+    :class: tight-table
 
     * - Abbreviation
       - Description
@@ -157,8 +158,9 @@ settleable solids can be sedimented within ~45 minutes:
 For different types of treatments there is an optimal:
 
 .. list-table:: Surface loading (q\ :sub:`a`), retention time, and tank depth
-    :widths: 20 20 20 20
+    :widths: 40 10 10 10
     :header-rows: 1
+    :class: tight-table
 
     * - Treatment method
       - q\ :sub:`a` [m / h]
@@ -322,8 +324,9 @@ where:
 S\ :sub:`N03,D` / C\ :sub:`BOD,IAT` and using the table below:
 
 .. list-table:: S\ :sub:`N03,D` / C\ :sub:`BOD,IAT`
-    :widths: 20 20 20
+    :widths: 10 40 30
     :header-rows: 1
+    :class: tight-table
 
     * - V\ :sub:`D` / V\ :sub:`AT`
       - Pre-anoxic zone denitrification and comparable processes
@@ -373,6 +376,7 @@ sludge age.
 .. list-table:: T and B\ :sub:`d,BOD,I`
     :widths: 20 20 20 20 20 20
     :header-rows: 1
+    :class: tight-table
 
     * - Treatment target
       - V\ :sub:`D` / V\ :sub:`AT`
@@ -437,8 +441,9 @@ a retention time after primary sedimentation of 0.5 to 1 h is
 sufficient. Remember to transform it to concentration.
 
 .. list-table:: Inhabitant-specific loads [ *g / (I · d)* ]
-    :widths: 20 20 20 20
+    :widths: 10 10 30 30
     :header-rows: 1
+    :class: tight-table
 
     * - Parameter
       - Raw wastewater
@@ -507,6 +512,7 @@ load to find the sludge production from carbon removal.
 .. list-table:: Sludge age [ d ]
     :widths: 20 20 20 20 20 20 20
     :header-rows: 1
+    :class: tight-table
 
     * - X\ :sub:`SS,IAT` / C\ :sub:`BOD,IAT`
       - 4
@@ -560,8 +566,9 @@ Next, the phosphorus balance is calculated by first extracting the
 C\ :sub:`P,EST` according to the size class in the following table:
 
 .. list-table:: Concentrations according to the size class
-    :widths: 20 20 20 20 20 20
+    :widths: 30 10 10 10 10 10
     :header-rows: 1
+    :class: tight-table
 
     * - Size class
       - COD [ mg / L ]
@@ -696,6 +703,7 @@ below:
 .. list-table:: Sludge age [d]
     :widths: 20 20 20 20 20 20 20
     :header-rows: 1
+    :class: tight-table
 
     * - Peak factors
       - 4
@@ -853,6 +861,7 @@ performed. Plus, it is recommended to take an average value.
 .. list-table:: SVI
     :widths: 20 20 20
     :header-rows: 1
+    :class: tight-table
 
     * - Treatment target
       - Favourable (ml/g)
@@ -877,6 +886,7 @@ sludge rises.
 .. list-table:: Thickening time
     :widths: 20 20
     :header-rows: 1
+    :class: tight-table
 
     * - Type of wastewater treatment
       - Thickening time (h)
