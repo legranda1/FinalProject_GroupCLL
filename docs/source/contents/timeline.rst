@@ -1,7 +1,7 @@
 Timeline
 ++++++++
 
-.. image:: /images/timeline.jpg
+.. image:: ../../../images/timeline.jpg
     :width: 100%
     :align: center
 

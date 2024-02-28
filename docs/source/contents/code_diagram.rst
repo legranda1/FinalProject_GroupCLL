@@ -1,7 +1,7 @@
 Code Diagram
 ++++++++++++
 
-.. image:: /images/UML.jpg
+.. image:: ../../../images/UML.jpg
     :width: 100%
     :align: center
 
