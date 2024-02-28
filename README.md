@@ -94,9 +94,9 @@ country) respectively. Thirdly, [*pri_sed.py*](wwtp_design/pri_sed.py),
 have been created to perform the respective dimensioning of each tank.
 Last but not least, in [*main.py*](wwtp_design/main.py) 3 Excel files
 are generated and logged for each of the corresponding stages.
-1. [*pri_sed_results.xlsx*](results/pri_sed_results.xlsx)
-2. [*act_sludge_results.xlsx*](results/act_sludge_results.xlsx)
-3. [*sec_sed_results.xlsx*](results/sec_sed_results.xlsx)
+1. [*pri_sed_results.xlsx*](pri_sed_results.xlsx)
+2. [*act_sludge_results.xlsx*](act_sludge_results.xlsx)
+3. [*sec_sed_results.xlsx*](sec_sed_results.xlsx)
 
 *Auxiliary components*
 
@@ -106,9 +106,9 @@ are generated and logged for each of the corresponding stages.
 [*pri_sed.py*](wwtp_design/pri_sed.py) that also inherits, so in total
 there are 4 classes and 2 of them inherit. 
 3. Log actions files (info, error, and warning). 
-   * [*info.log*](logs/info.log)
-   * [*error.log*](logs/error.log)
-   * [*warning.log*](logs/warning.log)
+   * [*info.log*](wwtp_design/info.log)
+   * [*error.log*](wwtp_design/error.log)
+   * [*warning.log*](wwtp_design/warning.log)
 4. [*__init__.py*](wwtp_design/__init__.py) is created in order to get a package.
 ***
 
@@ -235,7 +235,7 @@ where:
 * *D* is the depth of the rectangular tank [ *m* ]
 * *L* is the length of the rectangular tank [ *m* ]
 
-The result file, [*pri_sed_results.xlsx*](results/pri_sed_results.xlsx), will
+The result file, [*pri_sed_results.xlsx*](pri_sed_results.xlsx), will
 look the following way:
 
 <div style="text-align:center">
