@@ -1,4 +1,5 @@
 import logging
+import os
 from config import *
 
 
@@ -49,13 +50,16 @@ def start_logging():
     :return: None, but three logger objects will be created
     """
     loggers_config = {
-        "info_logger": {"level": logging.INFO, "filename": "info.log",
+        "info_logger": {"level": logging.INFO,
+                        "filename": os.path.abspath("../logs/info.log"),
                         "format": "[%(asctime)s] %(message)s"},
         "warning_logger": {
-            "level": logging.WARNING, "filename": "warning.log",
+            "level": logging.WARNING,
+            "filename": os.path.abspath("../logs/warning.log"),
             "format": "[%(asctime)s %(levelname)s: %(message)s"
         },
-        "error_logger": {"level": logging.ERROR, "filename": "error.log",
+        "error_logger": {"level": logging.ERROR,
+                         "filename": os.path.abspath("../logs/error.log"),
                          "format": "[%(asctime)s %(levelname)s: %(message)s"}
     }
     for logger_key, logger_value in loggers_config.items():
