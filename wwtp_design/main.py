@@ -98,17 +98,17 @@ def main():
         info_logger.info(
             "Results of the dimensioning of the primary sedimentation tank")
         pri_sed_df().to_excel(
-            os.path.abspath("..") + "\\pri_sed_results.xlsx")
+            os.path.abspath("../pri_sed_results.xlsx"))
         info_logger.info(pri_sed_df())
         info_logger.info(
             "Results of the dimensioning of the secondary sedimentation tank")
         sec_sed_df().to_excel(
-            os.path.abspath("..") + "\\sec_sed_results.xlsx")
+            os.path.abspath("../sec_sed_results.xlsx"))
         info_logger.info(sec_sed_df())
         info_logger.info(
             "Results of the dimensioning of the activated sludge tank")
         act_sludge_df().to_excel(
-            os.path.abspath("..") + "\\act_sludge_results.xlsx")
+            os.path.abspath("../act_sludge_results.xlsx"))
         info_logger.info(act_sludge_df())
         # log of warnings
         warning_logger.warning("No warnings are reported")
