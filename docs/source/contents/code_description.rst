@@ -7,7 +7,7 @@ An executable python package that can calculate dimensions for the main
 parts of a wastewater treatment plant using inflow quantities and
 chemical properties.
 
-The main parts and its functions are:
+The main parts and its functions aree:
 
 #. `Primary sedimentation tank <https://www.robuschi.com/en-gb/industries/wastewater-treatment/primary-sedimentation#:~:text=Primary%20sedimentation%20removes%20suspended%20solids,in%20the%20liquid%20waste%20stream>`_ for settleable solids.
 #. `Activated sludge tank <https://en.wikipedia.org/wiki/Activated_sludge#:~:text=The%20activated%20sludge%20process%20for,from%20the%20clear%20treated%20water>`_ for organic matter removal through aeration and filtration.
